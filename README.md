@@ -4,6 +4,6 @@ Web scraping and some data analysis regarding to yamaha R25 at Mudah.my
 
 This analysis is made for analyzing :-
 
-- The price and location for yamaha r25 in Malaysia.
+- The price and location for my 1.5 se in Malaysia.
 - Seller : Company / Private Seller
 - Condition : New / Used
